@@ -8,7 +8,7 @@ tags:
 #### 1.检查Git版本
 
 ```bash
-git -v
+git -v  
 ```
 
 #### 2.查看git配置信息
